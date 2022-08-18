@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856851962005",
+    "project_id": "followapp-c436c",
+    "storage_bucket": "followapp-c436c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856851962005:android:994161f8f42af4bf9ae39c",
+        "android_client_info": {
+          "package_name": "com.kazim.followapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856851962005-kgl6ct63hh8halq87jhu57sfud34eote.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhix7UyYpe-w3ul4kXKHHI6PXFHsbBuz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856851962005-kgl6ct63hh8halq87jhu57sfud34eote.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
